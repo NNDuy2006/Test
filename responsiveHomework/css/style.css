@@ -51,7 +51,7 @@ div{
         width: 45vw;
     }
 
-    img {
+    div img {
         max-height: 30vh;
     }
 }
